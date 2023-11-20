@@ -1,0 +1,112 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.App {
+  width: 100%;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.compteur {
+  min-width: 100px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: linear-gradient(
+    to right,
+    rgb(0, 191, 255),
+    rgb(0, 255, 234)
+  );
+  color: #333;
+  border-radius: 15px;
+  padding: 20px;
+  margin-bottom: 20px;
+  gap: 10px;
+}
+
+.compteur button {
+  padding: 10px;
+}
+
+.compteur p {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.compteur p.erreur {
+  color: rgb(202, 77, 77);
+}
+
+.entete {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.post {
+  padding: 10px;
+  background-image: linear-gradient(
+    to right,
+    rgb(35, 72, 116),
+    rgb(35, 116, 101)
+  );
+  margin-bottom: 10px;
+  border-radius: 15px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.post.active {
+  background-image: linear-gradient(
+    to left,
+    rgb(178, 137, 98),
+    rgb(178, 121, 98)
+  );
+  transition: 3s;
+}
+
+.post .text {
+  padding: 10px;
+}
+
+.post button {
+  padding: 10px;
+  cursor: pointer;
+  background-color: #fff;
+  color: #333;
+  border: none;
+  border-radius: 3px;
+  transition: 2s;
+}
+
+.btn {
+  display: flex;
+  gap: 10px;
+  border: none !important;
+}
+
+.btn .like:hover {
+  background-color: rgb(0, 208, 255);
+  color: #fff;
+  border: none;
+  transition: 3s;
+}
+
+.btn .delete {
+  background-color: rgb(205, 106, 106);
+  border: none;
+  color: #fff;
+}
+
+.btn .delete:hover {
+  background-color: rgba(255, 0, 0, 0.348);
+  transition: 3s;
+}

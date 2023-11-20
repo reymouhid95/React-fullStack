@@ -1,0 +1,77 @@
+{
+  "posts": [
+    {
+      "nomUtilisateur": "Amadou",
+      "mailUtilisateur": "test@gmail.com",
+      "motDePasse": "123456",
+      "motDePasseConfirmation": "123456",
+      "id": 2
+    },
+    {
+      "nomUtilisateur": "Amadou",
+      "mailUtilisateur": "test1@gmail.com",
+      "motDePasse": "123456",
+      "motDePasseConfirmation": "123456",
+      "id": 3
+    },
+    {
+      "nomUtilisateur": "Amadou",
+      "mailUtilisateur": "test2@gmail.com",
+      "motDePasse": "123456",
+      "motDePasseConfirmation": "123456",
+      "id": 4
+    },
+    {
+      "nomUtilisateur": "Amadou",
+      "mailUtilisateur": "test3@gmail.com",
+      "motDePasse": "123456",
+      "motDePasseConfirmation": "123456",
+      "id": 5
+    },
+    {
+      "nomUtilisateur": "Amadou",
+      "mailUtilisateur": "thiernooury89@gmail.com",
+      "motDePasse": "123456",
+      "motDePasseConfirmation": "123456",
+      "id": 6
+    }
+  ],
+  "publications": [
+    {
+      "textPublication": "Hey, je suis nouveau",
+      "imagePublication": "https://img.freepik.com/free-photo/positive-college-student-has-dark-skin-carries-folders-book-points-with-cheerful-expression-aside-has-toothy-smile_273609-23704.jpg?w=740&t=st=1700443270~exp=1700443870~hmac=e3b8cd00a820e3a58d221a8836e2d93d0e9f2d906009562c6bc05f4aae104d1f",
+      "idUtilisateur": 6,
+      "datePublication": "2023-11-20T01:51:58.031Z",
+      "likePublication": 0,
+      "auteur": "Amadou",
+      "id": 8
+    },
+    {
+      "textPublication": "ukythrefegsrhtftr",
+      "imagePublication": "https://img.freepik.com/free-photo/portrait-young-woman-with-laptop-hands-outside-school_641386-1029.jpg?w=740&t=st=1700445348~exp=1700445948~hmac=e62a3ed75b90087fce42c7e33414c4627c11c2cc7b576ef302edce30e30b4446",
+      "idUtilisateur": 6,
+      "datePublication": "2023-11-20T01:56:09.961Z",
+      "likePublication": 0,
+      "auteur": "Amadou",
+      "id": 9
+    },
+    {
+      "textPublication": "_ijuèhy-t(r'e\"'r(t-yui_oi_uèy",
+      "imagePublication": "https://img.freepik.com/free-photo/young-smiling-confident-woman-using-laptop-computer-looking-camera-isolated-white-background_231208-9497.jpg?w=360&t=st=1700448828~exp=1700449428~hmac=ed4899f0fd122b61f7baefaacbe38d55b887b023ffffdb303a46c580baaa7cda",
+      "idUtilisateur": 6,
+      "datePublication": "2023-11-20T02:54:29.471Z",
+      "likePublication": 0,
+      "auteur": "Amadou",
+      "id": 10
+    },
+    {
+      "textPublication": "rtyuhijokpl^mpoiuyt",
+      "imagePublication": "https://img.freepik.com/free-photo/front-view-male-student-wearing-black-backpack-holding-copybooks-files-blue-wall_140725-42636.jpg?w=740&t=st=1700450332~exp=1700450932~hmac=2dde4d8e4575bf78d2358c048e14d2f47b84894ebbf38e5cf456a68228dd514e",
+      "idUtilisateur": 5,
+      "datePublication": "2023-11-20T03:19:06.880Z",
+      "likePublication": 0,
+      "auteur": "Amadou",
+      "id": 11
+    }
+  ]
+}
